@@ -3,7 +3,7 @@
 meu nome é rhuan 
 
 -estou estudando na [alura](https://www.alura.com.br)🥇
--estou me desenvolvendo na limguagem javaScript🐈
+-estou me desenvolvendo na linguagem javaScript🐈
 -utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 ### Você entrar em contado comigo 📧
